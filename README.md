@@ -161,10 +161,7 @@ The project Scope discusses how we have scrapped and analyzed the data on the Li
 
 
 
-## Team Members
 
-# LinkedIn Job Analysis Project
-![Dashboard Image](https://github.com/anjanicoder/JobDashboard/blob/e8c307e9a2e7c9fc392b01772ad8ae7c0fca3fd3/Project%20Image/main.jpg?raw=true)
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="100"/>
