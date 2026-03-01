@@ -160,6 +160,11 @@ The project Scope discusses how we have scrapped and analyzed the data on the Li
 
 
 
+## Team Members
+- [Anjani Nandan](https://github.com/anjanicoder)
+- [Salil Singh](https://github.com/Salil-Singh-01)
+- [Aamir Khan](https://github.com/aam1rkhan)
+- [Tauheed Ahmad](https://github.com/tauheed7080)
 
 
 # LinkedIn Job Analysis Project
